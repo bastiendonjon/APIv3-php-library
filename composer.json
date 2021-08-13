@@ -37,7 +37,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "7.x.x-dev"
+            "dev-master": "test-query"
         }
     }
 }
